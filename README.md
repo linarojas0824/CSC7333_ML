@@ -6,7 +6,26 @@ clustering, our goal is to simplify multivariable datasets containing informatio
 <br>
 Simulated plant data was used for training and evaluation, with ML tools and libraries, such as scikit-learn, PyTorch, TensorFlow, and Python for model development and analysis. <br>
 
-**Design Implementation**
- Inserting image...
+**Design Implementation**<br>
+<br>
+**Dimensionality Reduction**<br>
+- Pairwise Controlled Manifold Approximation Projection (PaCMAP)<br>
+- Principal Component Analysis (PCA)<br>
+<br>
+**Clustering**<br>
+- HDBSCAN <br>
+- K- means <br>
+<br>
+**Supervised Learning** <br>
+Four representative algorithms were thoroughly investigated; support vector regression (SVR), decision-based regression (DT), Artificial Neural Networks (ANN), and Deep Learning (DL).<br>
+Hyperparameter optimization was conducted through a grid search.<br>
+  Parameters:<br>
+  - Number of estimators<br>
+  - Maximum tree depth<br>
+  - Minimum samples required for node splitting<br>
+Performance evaluation employing Root Mean Squared Error (RMSE) and R-squared (R2)    
 
- 
+
+
+
+
