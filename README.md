@@ -6,13 +6,13 @@ clustering, our goal is to simplify multivariable datasets containing informatio
 <br>
 Simulated plant data was used for training and evaluation, with ML tools and libraries, such as scikit-learn, PyTorch, TensorFlow, and Python for model development and analysis. <br>
 
-**Design Implementation**<br>
+**Design Implementation** <br>
 <br>
-**Dimensionality Reduction**<br>
+**Dimensionality Reduction** <br>
 - Pairwise Controlled Manifold Approximation Projection (PaCMAP)<br>
 - Principal Component Analysis (PCA)<br>
 <br>
-**Clustering**<br>
+**Clustering** <br>
 - HDBSCAN <br>
 - K- means <br>
 <br>
