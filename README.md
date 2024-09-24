@@ -11,11 +11,11 @@ Simulated plant data was used for training and evaluation, with ML tools and lib
 **Dimensionality Reduction** <br>
 - Pairwise Controlled Manifold Approximation Projection (PaCMAP)<br>
 - Principal Component Analysis (PCA)<br>
-<br>
+
 **Clustering** <br>
 - HDBSCAN <br>
 - K- means <br>
-<br>
+
 **Supervised Learning** <br>
 Four representative algorithms were thoroughly investigated; support vector regression (SVR), decision-based regression (DT), Artificial Neural Networks (ANN), and Deep Learning (DL).<br>
 Hyperparameter optimization was conducted through a grid search.<br>
